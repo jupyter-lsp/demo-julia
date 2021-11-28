@@ -12,5 +12,3 @@ dependencies:
   - retrolab >=0.2.0,<0.3
   - jupyterlab-lsp
   - pip
-  # for Julia language server and kernel
-  - julia
